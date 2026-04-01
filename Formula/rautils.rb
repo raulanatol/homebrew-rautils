@@ -1,9 +1,9 @@
 class Rautils < Formula
   desc "macOS utility CLI tool collection"
   homepage "https://github.com/raulanatol/rautils"
-  url "https://github.com/raulanatol/rautils/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "280af6540d7cb4fc2c740f5c46d385a0f5291e48a3ec487ead20fbfd3fc12afb"
-  version "0.1.2"
+  url "https://github.com/raulanatol/rautils/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e17c1b5eb2756e2187f28623ed1d4489b36f20dd216f5f2e7fa2dfef640e7630"
+  version "0.2.0"
   license "MIT"
 
   def install
